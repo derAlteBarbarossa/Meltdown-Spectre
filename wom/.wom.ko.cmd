@@ -1,0 +1,1 @@
+cmd_/home/shahriar/Desktop/Main/Kaveh/TA/lab3_meltdown/lab3/wom/wom.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/shahriar/Desktop/Main/Kaveh/TA/lab3_meltdown/lab3/wom/wom.ko /home/shahriar/Desktop/Main/Kaveh/TA/lab3_meltdown/lab3/wom/wom.o /home/shahriar/Desktop/Main/Kaveh/TA/lab3_meltdown/lab3/wom/wom.mod.o;  true
