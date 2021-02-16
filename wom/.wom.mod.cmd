@@ -1,1 +1,0 @@
-cmd_/home/shahriar/Desktop/Main/Kaveh/TA/lab3_meltdown/lab3/wom/wom.mod := { echo  /home/shahriar/Desktop/Main/Kaveh/TA/lab3_meltdown/lab3/wom/main.o; echo; } > /home/shahriar/Desktop/Main/Kaveh/TA/lab3_meltdown/lab3/wom/wom.mod
