@@ -1,5 +1,7 @@
-#Meltdown-Spectre
+# Meltdown-Spectre
+
 **Discalimer1**: This repository contains my implementation of the 3rd homework for the course *Hardware Security* at ETHZ. All rights shall be reserved for the authors of wom kernel module.
+
 **Discalimer2**: If you are going to take this course, please don't spoil this wonderful experience, by reading this code.
 
 0. Change your VUNETID in the Makefile
